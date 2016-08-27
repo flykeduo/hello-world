@@ -7,6 +7,10 @@ secondly good ！
 
 49897
 
+<<<<<<< HEAD
 0000000000
 
 wewewe
+=======
+0000000000
+>>>>>>> origin/flykeduo-patch-1
