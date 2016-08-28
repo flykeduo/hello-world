@@ -7,4 +7,13 @@ secondly good ！
 
 49897
 
+<<<<<<< HEAD
 0000000000
+
+wewewe
+=======
+0000000000
+2323甲dsdjsd
+>>>>>>> origin/flykeduo-patch-1
+积极
+20160828
